@@ -1,0 +1,9 @@
+[submodule "nextjs-ethers"]
+	path = nextjs-ethers
+	url = https://github.com/kihiuFrank/nextjs-moralis-metamask-connect.git
+[submodule "nextjs-web3-react"]
+	path = nextjs-web3-react
+	url = https://github.com/kihiuFrank/nextjs-web3-react.git
+[submodule "nextjs-moralis-metamask-connect"]
+	path = nextjs-moralis-metamask-connect
+	url = https://github.com/kihiuFrank/nextjs-moralis-metamask-connect.git
