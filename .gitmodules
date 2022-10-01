@@ -10,3 +10,6 @@
 [submodule "nextjs-web3modal-metamask-connect"]
 	path = nextjs-web3modal-metamask-connect
 	url = https://github.com/kihiuFrank/nextjs-web3modal-metamask-connect.git
+[submodule "nextjs-usedapp-metamask-connect"]
+	path = nextjs-usedapp-metamask-connect
+	url = https://github.com/kihiuFrank/nextjs-usedapp-metamask-connect.git
